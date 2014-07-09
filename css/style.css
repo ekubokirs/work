@@ -283,7 +283,7 @@ a#pull {
 }
 
 /* ============== Parallax image backgounds ==================== */
-.js-background-1 {
+.about-bg {
     background-image: url('../img/about-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
