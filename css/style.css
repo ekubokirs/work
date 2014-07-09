@@ -98,12 +98,10 @@ h2 {
 #about p {
     margin-top:80px;
 }
-/*#contact p {
+#contact p {
     padding:0 20px;
     width:50%;
-    margin:0 0 80px;
-}*/
-.contact-info{
+    margin:0 25% 10% 25%;
     text-align: center;
 }
 #welcome {
@@ -115,8 +113,8 @@ h2 {
     color:#666;
 }
 .blog-item {
-    width:22%;
-    margin-right:4%;
+    width:25%;
+    margin-right:10%;
     float:left;
     text-align:center;
 }
@@ -286,7 +284,8 @@ a#pull {
 
 /* ============== Parallax image backgounds ==================== */
 .js-background-1 {
-    background: transparent url('../img/about-bg.jpg') 10% 150px no-repeat;
+    background-image: url('../img/about-bg.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .js-background-2 {
@@ -385,6 +384,8 @@ a#pull {
         float:none;
     }
     #contact p {
-        width:100%;text-align:left;
+        margin: 0 10% 10% 10%;
+        width:80%;
+        text-align:center;
     }
 }  
