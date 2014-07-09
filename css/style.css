@@ -289,7 +289,7 @@ a#pull {
     background-size: cover;
 }
 .blog-bg {
-    background: transparent url('../img/blog-bg.jpg') 10% 150px no-repeat;
+    background: transparent url('../img/blog-bg.jpg') no-repeat;
     background-size: cover;
 }
 .js-background-3 {
