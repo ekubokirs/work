@@ -288,7 +288,7 @@ a#pull {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.js-background-2 {
+.blog-bg {
     background: transparent url('../img/blog-bg.jpg') 10% 150px no-repeat;
     background-size: cover;
 }
