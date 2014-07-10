@@ -428,9 +428,13 @@ a#pull {
         margin: auto;
     }
 } 
-@media only screen and (max-width : 480px) {
+@media only screen and (max-width : 320px) {
     .round-button{
         width: 25%;
         margin: auto;
     }
+    #contact-info{
+        font-size: 1em;
+    }
+
 }
