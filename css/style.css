@@ -101,7 +101,7 @@ h2 {
 #contact p {
     padding:0 20px;
     width:50%;
-    margin:0 25% 10% 25%;
+    margin:0 25% 0 25%;
     text-align: center;
 }
 #welcome {
@@ -111,6 +111,10 @@ h2 {
     font-style: italic;
     font-weight:600;
     color:#666;
+}
+.social-links{
+    margin: 1% auto 1%;
+    text-align: center;
 }
 .blog-item {
     width:22%;
