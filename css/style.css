@@ -430,16 +430,16 @@ a#pull {
 } 
 @media only screen and (max-width : 480px) {
     .round-button{
-        width: 27%;
+        width: 30%;
         margin: auto;
     }
     #contact-info{
-        font-size: 1em;
+        font-size: .75em;
     }
 }
 @media only screen and (max-width: 320){
     .round-button{
-        width: 29%;
+        width: 35%;
     }
     #contact-info{
         font-size: .5em;
