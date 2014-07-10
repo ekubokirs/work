@@ -287,10 +287,12 @@ a#pull {
     background-image: url('../img/about-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 .blog-bg {
     background: transparent url('../img/blog-bg.jpg') no-repeat;
     background-size: cover;
+    background-position: center;
 }
 .js-background-3 {
     background: transparent url('../img/contact-bg.png') top center repeat;
