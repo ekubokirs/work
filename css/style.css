@@ -439,6 +439,7 @@ a#pull {
     }
     #contact-info{
         font-size: 1em;
+        text-align: center;
     }
 }
 @media only screen and (max-width: 320){
