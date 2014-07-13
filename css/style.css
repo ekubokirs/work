@@ -204,11 +204,13 @@ h2 {
     margin:0 0 20px 0;
 }
 .popupbox p {
-    font-size:14px;
+    font-size:16px;
     line-height:22px;
     font-weight:400;
 }
-
+.popupbox a:hover {
+    color: #be4b97;
+}
 
 /* ============== Header, Footer & Menu ==================== */
 .cbp-af-header {
