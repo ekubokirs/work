@@ -208,6 +208,10 @@ h2 {
     line-height:22px;
     font-weight:400;
 }
+.popupbox a{
+    text-decoration: none;
+    color: #430e39;
+}
 .popupbox a:hover {
     color: #be4b97;
 }
