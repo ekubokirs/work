@@ -211,6 +211,12 @@ h2 {
 .popupbox a{
     text-decoration: none;
     color: #430e39;
+    margin: 10%;
+    font-size: 22px;
+    border: 1px solid #430e39;
+    padding: 0 2.5%;
+    border-radius: 100%;
+    text-align: center;
 }
 .popupbox a:hover {
     color: #be4b97;
