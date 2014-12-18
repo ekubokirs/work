@@ -149,6 +149,11 @@ h2 {
     margin: 1% auto 1%;
     text-align: center;
 }
+.sitemap a{
+    text-decoration: none;
+    font-size: 8px;
+    color: #666;
+}
 .blog-item {
     width:22%;
     margin-right:4%;
