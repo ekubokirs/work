@@ -279,46 +279,44 @@ Intro
 #logo{
 	margin-top: -10%;
 	height: 50%;
+	width: 50%;
 }
 .intro-text {
 	position:relative;
 	width:100%;
-	margin-top:200px;
+	margin-top:10%;
 	z-index:1000;
 }
-
+.back_header{
+	background-color: white;
+	border: .1em solid white;
+	opacity: .5;
+}
 .intro-text h1 {
 	color: black;
 	text-align:center;
 	font-weight: 00;
-	font-size: 65px; 
+	font-size: 3.75em; 
 	line-height:1.25em;
 	padding-top: 1%;
 	text-transform: uppercase;
+	opacity: 1;
 }
 
 .intro-text p {
 	color: black;
-	font-size: 35px;
+	font-size: 2em;
 	font-family: 'Poiret One', cursive;
 
-	/*text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;*/
+	text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
 }
 
-.line-spacer {
-	width: 20%;
-	margin:0 auto;
-	margin-top: 20px;
-	margin-bottom: 25px;
-	border-bottom:1px solid #fff;
-}
-
-.intro-text p span {
+/*.intro-text p span {
 	color:#fff;
-	font-size: 24px;
+	font-size: 1.5em;
 	text-align:center;
 	font-weight: 300;
-}
+}*/
 
 /* ================================
 About
