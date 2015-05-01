@@ -52,7 +52,6 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 }
 
-
 .lead{
 	font-weight: 400;
 }
@@ -76,6 +75,7 @@ button {
 	-o-user-select: none;
 	user-select: none;
 }
+
 button.navbar-toggle {
 	background: #2b2b2b;
 	border: none;
@@ -162,7 +162,7 @@ nav.navbar.fixed-to-top{
 /* brand / logo */
 .navbar-default .navbar-brand{
 	color: #fff;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	font-size: 2em;
 	font-family: 'Poiret One', cursive;
@@ -311,12 +311,6 @@ Intro
 	text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
 }
 
-/*.intro-text p span {
-	color:#fff;
-	font-size: 1.5em;
-	text-align:center;
-	font-weight: 300;
-}*/
 
 /* ================================
 About
@@ -391,9 +385,9 @@ Services
 Works
 ================================= */
 .thumb{
-	margin: 25%;
-	margin-top: 0;
-	width: 50%;
+	/*margin: 25%;
+	margin-top: 0;*/
+	/*width: 50%;*/
 	border-radius: 100%
 }
 .og-grid {
@@ -402,13 +396,14 @@ Works
 	margin: 0 auto;
 	text-align: center;
 	width: 100%;
+	padding: 1%;
 }
 
 .og-grid li {
 	display: inline-block;
-	margin: 10px 5px 0 5px;
+	margin: .5%;
 	vertical-align: top;
-	height: 250px;
+	height: 20%;
 }
 
 .og-grid li > a,
