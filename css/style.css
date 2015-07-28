@@ -734,4 +734,8 @@ more media queries
 	#parallax3{
 		display: none;
 	}
+
+	#port_name{
+		font-size: 2.5em;
+	}
 }
