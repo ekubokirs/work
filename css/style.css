@@ -627,7 +627,9 @@ ul.social-network li {
 ul.social-network li a:hover span .fa-circle {
 	color: #2b2b2b;
 }
-
+.access{
+		visibility: hidden;
+}
 /* ================================
 Footer
 ================================= */
