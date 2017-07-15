@@ -630,6 +630,9 @@ ul.social-network li a:hover span .fa-circle {
 .access{
 		visibility: hidden;
 }
+.list{
+	list-style: none;
+}
 /* ================================
 Footer
 ================================= */
