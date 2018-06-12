@@ -292,7 +292,7 @@ Intro
 	border: .1em solid white;
 	opacity: .5;
 }
-.intro-text h1 {
+.header_text {
 	color: black;
 	text-align:center;
 	font-weight: 00;
@@ -627,7 +627,12 @@ ul.social-network li {
 ul.social-network li a:hover span .fa-circle {
 	color: #2b2b2b;
 }
-
+.access{
+		visibility: hidden;
+}
+.list{
+	list-style: none;
+}
 /* ================================
 Footer
 ================================= */
